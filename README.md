@@ -1,11 +1,8 @@
-# CodeAlpha_ML_Task2
+Credit Scoring Model
+Welcome to the Credit Scoring Model repository! This project, completed during my CodeAlpha internship, involves building a machine learning model to classify individuals' creditworthiness based on their financial data. The goal is to aid in making informed credit decisions and assessing financial risk more accurately.
 
-**Welcome to the Repository !!!**
+Files in this repository:
+codealpha_credit_scoring_model.ipynb: Jupyter Notebook containing the code for data preprocessing, feature engineering, model training, and evaluation.
 
-In this repository, you will find the source code for machine learning projects **Task2 Credit Scoring Model** completed during my **CodeAlpha internship.**
+train.csv: Dataset with features such as transaction history, loan payments, credit history, income levels, and other financial metrics used for training and testing the model.
 
-**Credit Scoring Model:** This project involves a machine learning model to classify individuals' creditworthiness based on financial data. By leveraging various metrics, the model aids in making informed credit decisions and assessing risk more accurately.
-
-o **codealpha_credit_scoring_model.ipynb:** Jupyter Notebook containing the code for data preprocessing, feature engineering, model training, and evaluation.
-
-o **train.csv:** Dataset used for training and testing, including features such as transaction history, loan payments, credit history, income levels, and other financial data.
